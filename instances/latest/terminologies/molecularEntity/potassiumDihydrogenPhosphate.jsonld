@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/potassiumDihydrogenPhosphate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": " Potassium Dihydrogen Phosphate is a inorganic phosphate. It is used as a buffering agent, as a source of potassium or as source of phosphorus. [adapted from PubChem (https://pubchem.ncbi.nlm.nih.gov/compound/Potassium-dihydrogen-phosphate)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0106429", #todo
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:7352#m1-receptor-1",#todo
+  "name": "potassiumDihydrogenPhosphate", 
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000001613", #todo
+  "synonym": [
+    "KH2PO4",
+    "H2KO4P",
+    "potassium phosphate monobasic",
+    "monopotassium phosphate",
+    "potassium dihydrogen phosphate",
+    "monopotassiumphosphate"
+  ]
+}
