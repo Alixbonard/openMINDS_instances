@@ -13,7 +13,6 @@
   "hasAnnotation": [
     {
       "@type": "https://openminds.ebrains.eu/sands/AtlasAnnotation",
-      "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
         "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/processive"
@@ -44,7 +43,6 @@
     },
     {
       "@type": "https://openminds.ebrains.eu/sands/AtlasAnnotation",
-      "anchorPoint": null,
       "criteria": null,
       "criteriaQualityType": {
         "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/processive"
@@ -86,4 +84,3 @@
   "versionIdentifier": "v1",
   "versionInnovation": "This is the first version of this parcellation entity."
 }
-
