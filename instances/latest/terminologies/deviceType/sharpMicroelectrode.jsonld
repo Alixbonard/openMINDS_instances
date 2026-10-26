@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceType/sharpMicroelectrode",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
+  "definition": "A sharp microelectrode is a  ",
+  "description": null,
+  "name": "sharp micro",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "",
+  "synonym": [
+    ""
+  ]
+}

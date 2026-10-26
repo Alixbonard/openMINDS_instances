@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceType/singleElectrode",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
+  "definition": "An electrode is an electrical conductor enabling the measurement of electrical potential or electrical field of cells or tissue.",
+  "description": "An electrical conductor, usually made of metal, used to measure the electrical potential difference between two points defined according to the experimental setup.",
+  "name": "single electrode",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0103703",
+  "synonym": [
+    "electrode"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceType/needleElectrode",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
+  "definition": "A needle electrode is a metallic sharp and thin electrode commonly used to record or stimulate electrical activity of a muscle fiber or a nerve by inserting the needle in the tissue.",
+  "description": null,
+  "name": "needle electrode",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "intramuscular wire electrode", 
+    "intramuscular electrode",
+    "needle probe",
+    "concentric ring needle",
+    "concentric needle electrode", 
+    "monopolar needle electrode",
+    "single-fiber needle electrode"
+  ]
+}

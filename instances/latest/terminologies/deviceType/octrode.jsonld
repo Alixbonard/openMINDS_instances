@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceType/octrode",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
+  "definition": "A octrode is the combination of eight electrodes closely group together to form a wire bundle to transmit an electrical signal into a tissue or record extracellular field potentials of in a tissue.",
+  "description": null,
+  "name": "octrode",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "eight-channel electrode",
+    "eight-wire electrode"
+  ]
+}

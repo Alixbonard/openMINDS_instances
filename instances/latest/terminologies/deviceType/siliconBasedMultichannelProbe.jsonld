@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/deviceType/siliconBasedultichannelProbe",
+  "@type": "https://openminds.om-i.org/types/DeviceType",
+  "definition": "A silicon-based multichannel probe is an implantable device comprising multiple electrodes (also referred to as recording sites) made from a silicon semiconductor material, designed for use in neural tissue, which enables the simultaneous recording of the electrical activity of multiple neurons within the same or different layers of the brain.",
+  "description": null,
+  "name": "silicon based multichannel probe",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "multisite silicon probe", 
+    "silicon probe", 
+    "silicon electrode array"
+  ]
+}
